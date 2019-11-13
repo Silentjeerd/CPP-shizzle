@@ -7,20 +7,18 @@ using namespace std;
 
 vector<string> getNames()
 {
-	return{
-		"g",
-		"f",
-		"e",
-		"a",
-		"aap",
-		"aab",
-		"g",
-		"f",
-		"e",
-		"a",
-		"b",
-		"x",
-		"wat"
+	return {
+		"Bjorn",
+		"Henk",
+		"Willem",
+		"Cedric",
+		"Cheniqua",
+		"Chantal",
+		"Patricia",
+		"JanRoderikWillemFriso",
+		"Hans",
+		"Heinrich",
+		"Flip"
 	};
 }
 
